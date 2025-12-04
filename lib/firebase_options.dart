@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: "AIzaSyDxfjZDQ4w-Xpdyyv5qYDqI3p4Pz6t6Bj8",
+    apiKey: "asd",
     authDomain: "asd-examen.firebaseapp.com",
     projectId: "asd-examen",
     storageBucket: "asd-examen.firebasestorage.app",
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: "AIzaSyDxfjZDQ4w-Xpdyyv5qYDqI3p4Pz6t6Bj8",
+    apiKey: "asd",
     authDomain: "asd-examen.firebaseapp.com",
     projectId: "asd-examen",
     storageBucket: "asd-examen.firebasestorage.app",
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: "AIzaSyDxfjZDQ4w-Xpdyyv5qYDqI3p4Pz6t6Bj8",
+    apiKey: "asd",
     authDomain: "asd-examen.firebaseapp.com",
     projectId: "asd-examen",
     storageBucket: "asd-examen.firebasestorage.app",
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: "AIzaSyDxfjZDQ4w-Xpdyyv5qYDqI3p4Pz6t6Bj8",
+    apiKey: "asd",
     authDomain: "asd-examen.firebaseapp.com",
     projectId: "asd-examen",
     storageBucket: "asd-examen.firebasestorage.app",
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: "AIzaSyDxfjZDQ4w-Xpdyyv5qYDqI3p4Pz6t6Bj8",
+    apiKey: "asd",
     authDomain: "asd-examen.firebaseapp.com",
     projectId: "asd-examen",
     storageBucket: "asd-examen.firebasestorage.app",
